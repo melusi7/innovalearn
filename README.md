@@ -337,7 +337,7 @@ We welcome contributions! Please follow these steps:
 
 ---
 
-## 📋 Roadmap
+##  Roadmap
 
 ### Q2 2026
 - Leaderboards (weekly/monthly rankings)
