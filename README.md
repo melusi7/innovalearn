@@ -8,7 +8,7 @@ A modern, AI-powered language learning mobile application built with React Nativ
 
 ---
 
-## 🌟 Features
+##  Features
 
 ### Core Learning Features
 - **Interactive Lessons**: Structured content across 4 categories (Basics, Food, Travel, Business)
@@ -33,7 +33,6 @@ A modern, AI-powered language learning mobile application built with React Nativ
 
 ---
 
-## 🚀 Quick Start
 
 ### Prerequisites
 - Node.js 18+ with npm or pnpm
@@ -88,7 +87,7 @@ A modern, AI-powered language learning mobile application built with React Nativ
 
 ---
 
-## 📱 Supported Languages
+## Supported Languages
 
 | Language | Code | Status | Content |
 |----------|------|--------|---------|
@@ -103,7 +102,7 @@ A modern, AI-powered language learning mobile application built with React Nativ
 
 ---
 
-## 📚 Documentation
+## Documentation
 
 - **[User Guide](./docs/USER_GUIDE.md)** - Complete user documentation and tutorials
 - **[API Documentation](./docs/API_DOCUMENTATION.md)** - Backend API reference and integration guide
@@ -112,26 +111,26 @@ A modern, AI-powered language learning mobile application built with React Nativ
 
 ---
 
-## 🏗️ Project Structure
+##  Project Structure
 
-```
+
 lingua-learn/
-├── app/                    # Expo Router screens and navigation
-├── components/             # Reusable React components
-├── hooks/                  # Custom React hooks
-├── lib/                    # Utilities, state management, and helpers
-├── server/                 # Backend API (Node.js/Express)
-├── tests/                  # Unit tests (Vitest)
-├── docs/                   # Documentation
-├── assets/                 # App icons, images, and splash screens
-├── app.config.ts          # Expo configuration
-├── tailwind.config.js     # Tailwind CSS configuration
+── app/                    # Expo Router screens and navigation
+── components/             # Reusable React components
+── hooks/                  # Custom React hooks
+── lib/                    # Utilities, state management, and helpers
+── server/                 # Backend API (Node.js/Express)
+── tests/                  # Unit tests (Vitest)
+── docs/                   # Documentation
+── assets/                 # App icons, images, and splash screens
+── app.config.ts          # Expo configuration
+── tailwind.config.js     # Tailwind CSS configuration
 └── package.json           # Dependencies and scripts
-```
+
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 - **React Native 0.81** - Cross-platform mobile framework
@@ -162,7 +161,7 @@ lingua-learn/
 
 ---
 
-## 📊 XP & Rewards
+##  XP & Rewards
 
 Earn experience points for all learning activities:
 
@@ -181,7 +180,7 @@ Earn experience points for all learning activities:
 
 ---
 
-## 🎯 Learning Paths
+##  Learning Paths
 
 ### Recommended Daily Routine
 
@@ -203,7 +202,7 @@ Earn experience points for all learning activities:
 
 ---
 
-## 🔐 Security
+##  Security
 
 - **Password Encryption**: Bcrypt hashing
 - **JWT Authentication**: Secure token-based auth
@@ -213,7 +212,7 @@ Earn experience points for all learning activities:
 
 ---
 
-## 🧪 Testing
+##  Testing
 
 Run the test suite:
 
@@ -235,7 +234,7 @@ Current test coverage:
 
 ---
 
-## 📦 Build & Deployment
+##  Build & Deployment
 
 ### Development Build
 ```bash
@@ -263,7 +262,7 @@ JWT_SECRET=your_jwt_secret_key
 
 ---
 
-## 🚦 Development Workflow
+##  Development Workflow
 
 ### Starting Development
 ```bash
@@ -293,7 +292,7 @@ pnpm db:generate
 
 ---
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 ### Metro Bundler Crashes
 ```bash
@@ -320,7 +319,7 @@ pnpm db:push
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 We welcome contributions! Please follow these steps:
 
@@ -361,42 +360,11 @@ We welcome contributions! Please follow these steps:
 - Certification exams
 - Premium subscription tier
 
----
+SUPPORT 
 
-## 📄 License
+- **Email**: maxmelusi999@gmail.com
+AUTHOR 
+MALUSI NGUBANE 
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 📞 Support
-
-- **Documentation**: [docs/](./docs/)
-- **Email**: support@innovatech-learn.com
-- **Website**: https://www.innovatech-learn.com
-- **GitHub Issues**: [Report a bug](https://github.com/innovatech/lingua-learn/issues)
-- **Community Forum**: https://forum.innovatech-learn.com
-
----
-
-## 🙏 Acknowledgments
-
-- Built with [Expo](https://expo.dev) and [React Native](https://reactnative.dev)
-- Styled with [NativeWind](https://www.nativewind.dev) and [Tailwind CSS](https://tailwindcss.com)
-- API powered by [tRPC](https://trpc.io)
-- AI features powered by advanced language models
-
----
-
-## 👨‍💻 Authors
-
-**InnovaTech Team**
-- Project Lead: [Your Name]
-- Lead Developer: [Your Name]
-- UI/UX Designer: [Your Name]
-
----
-
-**Made with ❤️ by InnovaTech**
-
-**Latest Version:** 1.0.0 | **Last Updated:** April 21, 2026
+Last Updated:**April 21 2026**
+I USED AI TO MAKE PROFFESSIONAL LOOKING README FILE TO MATCH THE DOCUMENTATION
